@@ -1,0 +1,15 @@
+
+
+.data-card{
+  background-color:#fff;
+  padding:20px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.MuiTypography-root.data-card-title{
+  color: #000;
+  font-weight: bold;
+}
